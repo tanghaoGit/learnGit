@@ -11,9 +11,4 @@ Git is free software distributed under the GPL.
 
 无--no-ff
 
-<<<<<<< Updated upstream
-
-stash2
-=======
-stash
->>>>>>> Stashed changes
+分支dev
